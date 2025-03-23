@@ -1,0 +1,33 @@
+.austria{
+    border: 1px solid black;
+    width: 150px;
+    height: 90px;
+    border: 1px black solid;
+  
+}
+
+.b1 , .b2 , .b3{
+    border: 1px solid black;
+    width: 150px;
+    height: 29px;
+}
+
+
+.b1{
+    background-color:blue;
+    border: none;
+
+}
+
+.b2{
+    background-color: #231f20;
+    border: none;
+
+}
+
+
+.b3{
+    background-color:white;
+    border: none;
+
+}
